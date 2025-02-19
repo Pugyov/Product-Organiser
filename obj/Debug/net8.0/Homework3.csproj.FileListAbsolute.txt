@@ -1,0 +1,315 @@
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/bin/Debug/net8.0/appsettings.Development.json
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/bin/Debug/net8.0/appsettings.json
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/bin/Debug/net8.0/global.json
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/bin/Debug/net8.0/Homework3.staticwebassets.runtime.json
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/bin/Debug/net8.0/Homework3
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/bin/Debug/net8.0/Homework3.deps.json
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/bin/Debug/net8.0/Homework3.runtimeconfig.json
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/bin/Debug/net8.0/Homework3.dll
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/bin/Debug/net8.0/Homework3.pdb
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/bin/Debug/net8.0/Humanizer.dll
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/bin/Debug/net8.0/MySqlConnector.dll
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/bin/Debug/net8.0/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/bin/Debug/net8.0/System.CodeDom.dll
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/bin/Debug/net8.0/System.Composition.Convention.dll
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/bin/Debug/net8.0/System.Composition.Hosting.dll
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/bin/Debug/net8.0/System.Composition.Runtime.dll
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/obj/Debug/net8.0/Homework3.csproj.AssemblyReference.cache
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/obj/Debug/net8.0/Homework3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/obj/Debug/net8.0/Homework3.AssemblyInfoInputs.cache
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/obj/Debug/net8.0/Homework3.AssemblyInfo.cs
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/obj/Debug/net8.0/Homework3.csproj.CoreCompileInputs.cache
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/obj/Debug/net8.0/Homework3.MvcApplicationPartsAssemblyInfo.cache
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/obj/Debug/net8.0/Homework3.RazorAssemblyInfo.cache
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/obj/Debug/net8.0/Homework3.RazorAssemblyInfo.cs
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/obj/Debug/net8.0/staticwebassets.build.json
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/obj/Debug/net8.0/staticwebassets.development.json
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/obj/Debug/net8.0/staticwebassets/msbuild.Homework3.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/obj/Debug/net8.0/staticwebassets/msbuild.build.Homework3.props
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Homework3.props
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Homework3.props
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/obj/Debug/net8.0/scopedcss/bundle/Homework3.styles.css
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/obj/Debug/net8.0/scopedcss/projectbundle/Homework3.bundle.scp.css
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/obj/Debug/net8.0/Homework3.csproj.Up2Date
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/obj/Debug/net8.0/Homework3.dll
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/obj/Debug/net8.0/refint/Homework3.dll
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/obj/Debug/net8.0/Homework3.pdb
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/obj/Debug/net8.0/Homework3.genruntimeconfig.cache
+/Users/pugyov/Desktop/MAC AUBG/Web-Server/Homework3/Homework3/obj/Debug/net8.0/ref/Homework3.dll
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/bin/Debug/net8.0/appsettings.Development.json
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/bin/Debug/net8.0/appsettings.json
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/bin/Debug/net8.0/global.json
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/bin/Debug/net8.0/Homework3.staticwebassets.runtime.json
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/bin/Debug/net8.0/Homework3
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/bin/Debug/net8.0/Homework3.deps.json
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/bin/Debug/net8.0/Homework3.runtimeconfig.json
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/bin/Debug/net8.0/Homework3.dll
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/bin/Debug/net8.0/Homework3.pdb
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/bin/Debug/net8.0/Humanizer.dll
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/bin/Debug/net8.0/MySqlConnector.dll
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/bin/Debug/net8.0/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/bin/Debug/net8.0/System.CodeDom.dll
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/bin/Debug/net8.0/System.Composition.Convention.dll
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/bin/Debug/net8.0/System.Composition.Hosting.dll
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/bin/Debug/net8.0/System.Composition.Runtime.dll
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/obj/Debug/net8.0/Homework3.csproj.AssemblyReference.cache
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/obj/Debug/net8.0/Homework3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/obj/Debug/net8.0/Homework3.AssemblyInfoInputs.cache
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/obj/Debug/net8.0/Homework3.AssemblyInfo.cs
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/obj/Debug/net8.0/Homework3.csproj.CoreCompileInputs.cache
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/obj/Debug/net8.0/Homework3.MvcApplicationPartsAssemblyInfo.cache
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/obj/Debug/net8.0/Homework3.RazorAssemblyInfo.cache
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/obj/Debug/net8.0/Homework3.RazorAssemblyInfo.cs
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/obj/Debug/net8.0/staticwebassets.build.json
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/obj/Debug/net8.0/staticwebassets.development.json
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/obj/Debug/net8.0/staticwebassets/msbuild.Homework3.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/obj/Debug/net8.0/staticwebassets/msbuild.build.Homework3.props
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Homework3.props
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Homework3.props
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/obj/Debug/net8.0/scopedcss/bundle/Homework3.styles.css
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/obj/Debug/net8.0/scopedcss/projectbundle/Homework3.bundle.scp.css
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/obj/Debug/net8.0/Homework3.csproj.Up2Date
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/obj/Debug/net8.0/Homework3.dll
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/obj/Debug/net8.0/refint/Homework3.dll
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/obj/Debug/net8.0/Homework3.pdb
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/obj/Debug/net8.0/Homework3.genruntimeconfig.cache
+/Users/pugyov/Desktop/MAC AUBG/Past Courses/Web-Server/Homework3/Homework3/obj/Debug/net8.0/ref/Homework3.dll
+/Users/pugyov/Documents/Code to Git/Product-Organiser/bin/Debug/net8.0/appsettings.Development.json
+/Users/pugyov/Documents/Code to Git/Product-Organiser/bin/Debug/net8.0/global.json
+/Users/pugyov/Documents/Code to Git/Product-Organiser/bin/Debug/net8.0/appsettings.json
+/Users/pugyov/Documents/Code to Git/Product-Organiser/bin/Debug/net8.0/Homework3.staticwebassets.runtime.json
+/Users/pugyov/Documents/Code to Git/Product-Organiser/bin/Debug/net8.0/Homework3
+/Users/pugyov/Documents/Code to Git/Product-Organiser/bin/Debug/net8.0/Homework3.deps.json
+/Users/pugyov/Documents/Code to Git/Product-Organiser/bin/Debug/net8.0/Homework3.runtimeconfig.json
+/Users/pugyov/Documents/Code to Git/Product-Organiser/bin/Debug/net8.0/Homework3.dll
+/Users/pugyov/Documents/Code to Git/Product-Organiser/bin/Debug/net8.0/Homework3.pdb
+/Users/pugyov/Documents/Code to Git/Product-Organiser/bin/Debug/net8.0/Humanizer.dll
+/Users/pugyov/Documents/Code to Git/Product-Organiser/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/pugyov/Documents/Code to Git/Product-Organiser/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/pugyov/Documents/Code to Git/Product-Organiser/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/pugyov/Documents/Code to Git/Product-Organiser/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/pugyov/Documents/Code to Git/Product-Organiser/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/pugyov/Documents/Code to Git/Product-Organiser/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/pugyov/Documents/Code to Git/Product-Organiser/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/pugyov/Documents/Code to Git/Product-Organiser/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/pugyov/Documents/Code to Git/Product-Organiser/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/pugyov/Documents/Code to Git/Product-Organiser/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/pugyov/Documents/Code to Git/Product-Organiser/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/pugyov/Documents/Code to Git/Product-Organiser/bin/Debug/net8.0/MySqlConnector.dll
+/Users/pugyov/Documents/Code to Git/Product-Organiser/bin/Debug/net8.0/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/pugyov/Documents/Code to Git/Product-Organiser/bin/Debug/net8.0/System.CodeDom.dll
+/Users/pugyov/Documents/Code to Git/Product-Organiser/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/Users/pugyov/Documents/Code to Git/Product-Organiser/bin/Debug/net8.0/System.Composition.Convention.dll
+/Users/pugyov/Documents/Code to Git/Product-Organiser/bin/Debug/net8.0/System.Composition.Hosting.dll
+/Users/pugyov/Documents/Code to Git/Product-Organiser/bin/Debug/net8.0/System.Composition.Runtime.dll
+/Users/pugyov/Documents/Code to Git/Product-Organiser/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Users/pugyov/Documents/Code to Git/Product-Organiser/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/pugyov/Documents/Code to Git/Product-Organiser/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/pugyov/Documents/Code to Git/Product-Organiser/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/pugyov/Documents/Code to Git/Product-Organiser/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/pugyov/Documents/Code to Git/Product-Organiser/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/pugyov/Documents/Code to Git/Product-Organiser/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/pugyov/Documents/Code to Git/Product-Organiser/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/pugyov/Documents/Code to Git/Product-Organiser/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/pugyov/Documents/Code to Git/Product-Organiser/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/pugyov/Documents/Code to Git/Product-Organiser/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/pugyov/Documents/Code to Git/Product-Organiser/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/pugyov/Documents/Code to Git/Product-Organiser/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/pugyov/Documents/Code to Git/Product-Organiser/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/pugyov/Documents/Code to Git/Product-Organiser/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/pugyov/Documents/Code to Git/Product-Organiser/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/pugyov/Documents/Code to Git/Product-Organiser/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/pugyov/Documents/Code to Git/Product-Organiser/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/pugyov/Documents/Code to Git/Product-Organiser/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/pugyov/Documents/Code to Git/Product-Organiser/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/pugyov/Documents/Code to Git/Product-Organiser/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/pugyov/Documents/Code to Git/Product-Organiser/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/pugyov/Documents/Code to Git/Product-Organiser/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/pugyov/Documents/Code to Git/Product-Organiser/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/pugyov/Documents/Code to Git/Product-Organiser/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/pugyov/Documents/Code to Git/Product-Organiser/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/pugyov/Documents/Code to Git/Product-Organiser/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/pugyov/Documents/Code to Git/Product-Organiser/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/pugyov/Documents/Code to Git/Product-Organiser/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/pugyov/Documents/Code to Git/Product-Organiser/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/pugyov/Documents/Code to Git/Product-Organiser/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/pugyov/Documents/Code to Git/Product-Organiser/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/pugyov/Documents/Code to Git/Product-Organiser/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/pugyov/Documents/Code to Git/Product-Organiser/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/pugyov/Documents/Code to Git/Product-Organiser/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/pugyov/Documents/Code to Git/Product-Organiser/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/pugyov/Documents/Code to Git/Product-Organiser/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/pugyov/Documents/Code to Git/Product-Organiser/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/pugyov/Documents/Code to Git/Product-Organiser/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/pugyov/Documents/Code to Git/Product-Organiser/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/pugyov/Documents/Code to Git/Product-Organiser/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/pugyov/Documents/Code to Git/Product-Organiser/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/pugyov/Documents/Code to Git/Product-Organiser/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/pugyov/Documents/Code to Git/Product-Organiser/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/pugyov/Documents/Code to Git/Product-Organiser/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/pugyov/Documents/Code to Git/Product-Organiser/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/pugyov/Documents/Code to Git/Product-Organiser/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/pugyov/Documents/Code to Git/Product-Organiser/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/pugyov/Documents/Code to Git/Product-Organiser/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/pugyov/Documents/Code to Git/Product-Organiser/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/pugyov/Documents/Code to Git/Product-Organiser/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/pugyov/Documents/Code to Git/Product-Organiser/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/pugyov/Documents/Code to Git/Product-Organiser/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/pugyov/Documents/Code to Git/Product-Organiser/obj/Debug/net8.0/Homework3.csproj.AssemblyReference.cache
+/Users/pugyov/Documents/Code to Git/Product-Organiser/obj/Debug/net8.0/Homework3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pugyov/Documents/Code to Git/Product-Organiser/obj/Debug/net8.0/Homework3.AssemblyInfoInputs.cache
+/Users/pugyov/Documents/Code to Git/Product-Organiser/obj/Debug/net8.0/Homework3.AssemblyInfo.cs
+/Users/pugyov/Documents/Code to Git/Product-Organiser/obj/Debug/net8.0/Homework3.csproj.CoreCompileInputs.cache
+/Users/pugyov/Documents/Code to Git/Product-Organiser/obj/Debug/net8.0/Homework3.MvcApplicationPartsAssemblyInfo.cache
+/Users/pugyov/Documents/Code to Git/Product-Organiser/obj/Debug/net8.0/Homework3.RazorAssemblyInfo.cache
+/Users/pugyov/Documents/Code to Git/Product-Organiser/obj/Debug/net8.0/Homework3.RazorAssemblyInfo.cs
+/Users/pugyov/Documents/Code to Git/Product-Organiser/obj/Debug/net8.0/staticwebassets.build.json
+/Users/pugyov/Documents/Code to Git/Product-Organiser/obj/Debug/net8.0/staticwebassets.development.json
+/Users/pugyov/Documents/Code to Git/Product-Organiser/obj/Debug/net8.0/staticwebassets/msbuild.Homework3.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/pugyov/Documents/Code to Git/Product-Organiser/obj/Debug/net8.0/staticwebassets/msbuild.build.Homework3.props
+/Users/pugyov/Documents/Code to Git/Product-Organiser/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Homework3.props
+/Users/pugyov/Documents/Code to Git/Product-Organiser/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Homework3.props
+/Users/pugyov/Documents/Code to Git/Product-Organiser/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/pugyov/Documents/Code to Git/Product-Organiser/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/pugyov/Documents/Code to Git/Product-Organiser/obj/Debug/net8.0/scopedcss/bundle/Homework3.styles.css
+/Users/pugyov/Documents/Code to Git/Product-Organiser/obj/Debug/net8.0/scopedcss/projectbundle/Homework3.bundle.scp.css
+/Users/pugyov/Documents/Code to Git/Product-Organiser/obj/Debug/net8.0/Homework3.csproj.Up2Date
+/Users/pugyov/Documents/Code to Git/Product-Organiser/obj/Debug/net8.0/Homework3.dll
+/Users/pugyov/Documents/Code to Git/Product-Organiser/obj/Debug/net8.0/refint/Homework3.dll
+/Users/pugyov/Documents/Code to Git/Product-Organiser/obj/Debug/net8.0/Homework3.pdb
+/Users/pugyov/Documents/Code to Git/Product-Organiser/obj/Debug/net8.0/Homework3.genruntimeconfig.cache
+/Users/pugyov/Documents/Code to Git/Product-Organiser/obj/Debug/net8.0/ref/Homework3.dll

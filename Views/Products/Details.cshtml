@@ -1,0 +1,17 @@
+@model Homework3.Models.Product
+
+@{
+    ViewData["Title"] = "Product Details";
+}
+
+<h2 class="my-4">Product Details</h2>
+
+<div class="card">
+    <div class="card-body">
+        <h5 class="card-title">@Model.Name</h5>
+        <p class="card-text"><strong>Description:</strong> @Model.Description</p>
+        <p class="card-text"><strong>Quantity:</strong> @Model.Quantity</p>
+        <p class="card-text"><strong>Price:</strong> $@Model.Price.ToString("F2")</p>
+        <a asp-action="List" class="btn btn-secondary">Back to List</a>
+    </div>
+</div>

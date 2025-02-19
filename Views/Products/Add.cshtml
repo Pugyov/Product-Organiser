@@ -1,0 +1,45 @@
+@model Homework3.Models.Product
+
+@{
+    ViewData["Title"] = "Add Product";
+}
+
+<h2>Add Product</h2>
+
+<form asp-action="Add" method="post">
+    <div class="form-group">
+        <label asp-for="Name" class="control-label"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Description" class="control-label"></label>
+        <input asp-for="Description" class="form-control" />
+        <span asp-validation-for="Description" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Quantity" class="control-label"></label>
+        <input asp-for="Quantity" class="form-control" type="number" />
+        <span asp-validation-for="Quantity" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Price" class="control-label"></label>
+        <input asp-for="Price" class="form-control" type="number" step="0.01" />
+        <span asp-validation-for="Price" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary mt-2">Add Product</button>
+    <a asp-action="List" class="btn btn-secondary mt-2">Back to List</a>
+    <button type="submit" class="btn btn-priary mt-2">Remove Product</button>
+</form>
+
+@section Scripts {
+    @{ await Html.RenderPartialAsync("_ValidationScriptsPartial"); }
+}
+
+<div>   
+<button type="submit" class = "btn btn-primary mt-2">Add Product</button>
+    </div>
